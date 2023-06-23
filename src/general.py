@@ -1,5 +1,5 @@
-def are_list_objects_not_None(objects):
-    for object in objects:
+def are_list_objects_not_None(list_of_objects):
+    for object in list_of_objects:
         if object is None:
             return False
     return True
