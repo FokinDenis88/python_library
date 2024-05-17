@@ -1,6 +1,14 @@
 # Python Library
 
 
+## Contact
+**Skype:** live:dragon8806  
+**Telegram:** https://t.me/Furious_Dragon_88  
+**VK (Russia):** https://vk.com/furious__dragon  
+**Discord:** ***ID:*** fokin_denis_yurievich_  ***User Name:*** fokin_denis_yurievich_  
+**Email:** fokin-denis-88-code@ya.ru  
+**Gitter:** @fokindenis88_gitlab:gitter.im
+
 
 ## Getting started
 
