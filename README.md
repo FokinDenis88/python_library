@@ -1,5 +1,9 @@
 # Python Library
 
+## Repository Web Pages
+[github](https://gitlab.com/FokinDenis88/python_library)  
+[gitlab (main)](https://gitlab.com/FokinDenis88/python_library)  
+[gitverse (Russia)](https://gitverse.ru/FokinDenis88/python_library)
 
 ## Contact
 **Skype:** live:dragon8806  
