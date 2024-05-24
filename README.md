@@ -1,7 +1,7 @@
 # Python Library
 
 ## Repository Web Pages
-[github](https://gitlab.com/FokinDenis88/python_library)  
+[github](https://github.com/FokinDenis88/python_library)  
 [gitlab (main)](https://gitlab.com/FokinDenis88/python_library)  
 [gitverse (Russia)](https://gitverse.ru/FokinDenis88/python_library)
 
@@ -9,7 +9,7 @@
 **Skype:** live:dragon8806  
 **Telegram:** https://t.me/Furious_Dragon_88  
 **VK (Russia):** https://vk.com/furious__dragon  
-**Discord:** ***ID:*** fokin_denis_yurievich_  ***User Name:*** fokin_denis_yurievich_  
+**Discord:** ***ID:*** 1203018807162175522 fokin_denis_yurievich_  ***User Name:*** fokin_denis_yurievich_  
 **Email:** fokin-denis-88-code@ya.ru  
 **Gitter:** @fokindenis88_gitlab:gitter.im
 
